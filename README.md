@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liam Lin</h1>
 <h3 align="center">A passionate,friendly,proactive Backend developer from Taiwan</h3>
 
-<h1 align="left">:point_right: About me:</h1>
+<h1 align="left">:point_right: About Me:</h1>
 
 - 🌱 currently learning : **C++, Docker**
 
