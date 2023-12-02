@@ -3,7 +3,7 @@
 
 <h1 align="left">:point_right: About Me:</h1>
 
-- 🌱 currently learning : **C++, Docker**
+- 🌱 currently learning : **Docker、Design Patterns、AWS**
 
 - 📫 How to reach me : **linliam1102@gmail.com**
 
