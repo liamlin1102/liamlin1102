@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liam Lin</h1>
 <h3 align="center">A passionate,friendly,proactive Backend developer from Taiwan</h3>
 
-<h1 align="left">:point_right: About Me:</h1>
+<h1 align="left">👉 About Me:</h1>
 
 - 🌱 currently learning : **Docker、Design Patterns、AWS**
 
@@ -10,22 +10,22 @@
 - 📄 Working experiences :
   - Yuanta Futures (2022/06/20~now)-Backend Engineer
 
-<h1 align="left">:calling: Contact Me:</h1>
+<h1 align="left">📲 Contact Me:</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/liam-lin-44a236232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liam lin" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">:computer: LeetCode Stats</h1>
+<h1 align="left">💻 LeetCode Stats</h1>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/liam__1102?theme=unicorn&font=Ubuntu&ext=heatmap)
 
-<h1 align="left">:bar_chart: GitHub Stats</h1>
+<h1 align="left">📊 GitHub Stats</h1>
 
 ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamlin1102&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamlin1102&layout=donut-vertical)
 
-<h1 align="left">:books: Languages and Tools:</h1>
+<h1 align="left">📚 Languages and Tools:</h1>
 
 ## Backend
 
