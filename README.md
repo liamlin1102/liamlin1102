@@ -3,7 +3,7 @@
 
 <h1 align="left">👉 About Me:</h1>
 
-- 🌱 currently learning : **Docker、Design Patterns、AWS**
+- 🌱 currently learning : **K8s、Design Patterns、AWS、CICD**
 
 - 📫 How to reach me : **linliam1102@gmail.com**
 
