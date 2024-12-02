@@ -3,12 +3,13 @@
 
 <h1 align="left">👉 About Me:</h1>
 
-- 🌱 currently learning : **K8s、Design Patterns、AWS、CICD**
+- 🌱 currently learning : **Design Patterns、AWS、Algorithm**
 
 - 📫 How to reach me : **linliam1102@gmail.com**
 
 - 📄 Working experiences :
-  - Yuanta Futures (2022/06/20~now)-Backend Engineer
+  - Yuanta Futures (2022/06/20~2024/02/26)-Backend Engineer
+  - 17life (2024/03/01~now)-Senior Backend Engineer
 
 <h1 align="left">📲 Contact Me:</h1>
 <p align="left">
